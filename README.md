@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabriel, seja bem vindo(a) ao meu GitHub!
+## Olá, meu nome é Gabriel, seja bem vindo(a) ao meu GitHub!
 - ⚡ Full-Stack Developer Student.
 - 🎓 Graduando em ADS na UNIT-PE.
 - 💬 Apaixonado por Tecnologia.
