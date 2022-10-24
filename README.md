@@ -1,7 +1,7 @@
 # Olá, meu nome é Gabriel, seja bem vindo(a) ao meu GitHub!
-- ⚡ Full-Stack Developer Student.
-- 🎓 Graduando em ADS na UNIT-PE.
-- 💬 Apaixonado por Tecnologia.
+- ⚡ Assoc. Full-Stack Developer at **Avanade**.
+- 🎓 Graduating in ADS at UNIT-PE.
+- 💬 i love tech.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabxhen&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Henrique github stats" /> 
@@ -9,7 +9,14 @@
 </div>
 
 ### Main skills:
-- Python
-- JavaScript
-- HTML
-- CSS
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Figma" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Rafa-Ilustrator" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
+  <img align="center" alt="Rafa-Figma" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+</div>
+  
+
