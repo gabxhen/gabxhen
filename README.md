@@ -1,4 +1,4 @@
-# Olá, meu nome é Gabriel, seja bem vindo(a) ao meu GitHub!
+# Hello, my name is Gabriel, welcome to my GitHub!
 - ⚡ Assoc. Full-Stack Developer at **Avanade**.
 - 🎓 Graduating in ADS at UNIT-PE.
 - 💬 i love tech.
