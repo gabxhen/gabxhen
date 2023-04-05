@@ -1,6 +1,6 @@
 # Hello, my name is Gabriel, welcome to my GitHub!
 - ⚡ Assoc. Full-Stack Developer at **Avanade**.
-- 🎓 Graduating in ADS at UNIT-PE.
+- 🎓 Graduating in ADS at UNINASSAU.
 - 💬 i love tech.
 
 <div align="center">  
